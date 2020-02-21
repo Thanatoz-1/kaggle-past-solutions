@@ -1,3 +1,43 @@
+- competitionDescription: How much energy will a building consume?
+  competitionId: 9994
+  competitionName: null
+  competitionTitle: ASHRAE - Great Energy Predictor III
+  competitionUrl: /c/ashrae-energy-prediction
+  coverImageUrl: null
+  deadline: '2019-12-20T23:59:00Z'
+  evaluationMetric: RMSLE
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: ASHRAE
+  organizationUrl:
+  rewardQuantity: 25000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/ashrae-energy-prediction/discussion/124709
+    tags: CatBoost, LGBM, MLP
+  - label: 2nd Place Solution (pt1)
+    url: https://www.kaggle.com/c/ashrae-energy-prediction/discussion/123481
+    tags: XGBoost, LGBM, Catboost. Feed-forward Neural Network
+  - label: 2nd Place Solution (pt2)
+    url: https://www.kaggle.com/c/ashrae-energy-prediction/discussion/123528
+    tags: XGBoost, LGBM, Catboost. Feed-forward Neural Network
+  - label: 3rd Place Solution
+    url: https://www.kaggle.com/c/ashrae-energy-prediction/discussion/124984
+    tags: CNN, LightGBM, Catboost
+  - label: 9th place solution
+    url: https://www.kaggle.com/c/ashrae-energy-prediction/discussion/123525
+    tags: LightGBM, CatBoost, LiteMORT, NN with Categorical Embeddings
+  - label: 13th place solution
+    url: https://www.kaggle.com/c/ashrae-energy-prediction/discussion/123496
+    tags: LightGBM
+  - label: 20th place solution
+    url: https://www.kaggle.com/c/ashrae-energy-prediction/discussion/123654
+    tags: LGBM, NN
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-organizations/3724/thumbnail.jpg?r=592
+  types:
+  - Time Series
+  - Tabular Data
 - competitionDescription: Can you classify cloud structures from satellites?
   competitionId: 13333
   competitionName: null
